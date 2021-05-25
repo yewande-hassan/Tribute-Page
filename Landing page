@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://kit.fontawesome.com/882346202d.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="CSS/style.css">
+  <link rel="stylesheet" media="screen and (max-width:768px)" href="CSS/mobile.css">
+  <title>Tribute Page</title>
+</head>
+<body id="main" class="bg-primary py-1">
+  <div class="menu-wrap">
+    <input type="checkbox" class="toggler">
+    <div class="hamburger"><div></div></div>
+  </div>
+  
+  <header id="title"><h1>Chief Abdul-Ganiyu"Gani" Oyesola Fawehinmi SAN</h1>
+     <p>...the people's president.</p>
+  </header>
+  <div id="img-div">
+    <div class="container bg-secondary">
+      <img id="image" src="https://images.app.goo.gl/yMyckNq1NKYn95Fg6" alt="image of Gani Fawehinmi">
+      <div id="img-caption">
+        <p>SAN Gani Fawehinmi, like his supporters fondly call him was a Nigerian author, publisher, philanthropist, social critic, human and civil right lawyer, politician.</p>
+      </div>
+    </div>
+  </div>
+  <section id="tribute-info">
+    <div class="container">
+<h2> Here's a biography of Chief SAN Gani Fawehinmi's life:</h2>
+<ul>
+  <li><b>April 22,1938:</b> Born in Ondo City, Ondo State, Nigeria.</li>
+  <li><b>1947-1953:</b> He had his early eucation at Ansar-Ud-Deen Primary School, Iyemaja, Ondo.</li>
+  <li><b>1954-1958:</b> His secondary school education at Victory College Ikare, where he sat for and passed his West African School Certificate Examination in 1958. While in college, he was popularly known as "Nation" because of his passionate interest in national, legal and political affairs. </li>
+  <li><b>1961:</b> Gani enrolled at the Holborn College of Law-University of London to read law. While at University, he lost his father. Gani completed his academic degree in London with a measure of difficulty due to lack of funds.</li>
+  <li><b>1964:</b> He returned to Nigeria and was called to the bar the following year.</li>
+  <li><b>1964-1971:</b> Gani gained prominence within this years when he took on the case of a factory worker,Bala Abashe who alleged that the secretary to the government of Benue-Plateau State, Andrew Obeya had an affair with his wife. The publicity of the case improved the exposure of his law practice.</li>
+  <li><b>1971-1973:</b> He was the national publicity secretary of the Nigerian Bar Association.</li>
+  <li><b>1981:</b> Gani Fawehinmi was queried by a disciplinary committee for touting himself through advertisements in a weekly publication contrary to the ethics of the bar. The judgement led to an amendment of the Legal Practitioners' Act 1975</li>
+  <li><b>1994:</b> He and some notable Nigerians formed the National Conscience Party of Nigeria which exists till today</li>
+  <li><b>September,2001:</b> Gani Fawehinmi was elevated to the rank of Senior Advocate of Nigeria(SAN) </li>
+  <li><b>2003:</b> He stood for a presidential election under the umbrella of the National Conscience Party.</li>
+</ul>
+<h2>Gani Fawehinmi Works</h2>
+<ul>
+  <li><b>1965:</b> Gani Fawehinmi library was established at No.116, Denton street, Ebute Meta, Lagos when the founder established his chamber the library was moved to No. 28 Sabiu Ajose Crescent, Surulere, Lagos.</li>
+  <li><b>1978:</b> The library moved from Surulere to No. 35 Adeniran Ajao Road, Ajao Estate, Anthony Village, Lagos</li>
+  <li><b>2009-2012:</b> The Library moved to its present and permanent site at Gani Fawehinmi Library and Gallery at Otunba Jobi-Fele Way Central Business District, Alausa, Ikeja</li>
+  <li><b>1986:</b> Chief Gani Fawehinmi was Dele Giwa's Lawyer, the latter was killed in a bomb blast under suspicious circumstanes and as aresult of his activities chief Gani Fawehinmi had been arrested, detained and charged to court several times. Alot happen at about this period.</li>
+</ul>
+<h2>Gani Fawehinmi Awards</h2>
+<ul>
+  <li><b>11 June, 1993:</b> Fawehinmi was awarded the biennial Bruno Kreisky Prize.</li>
+  <li><b>1998:</b> He received the International Bar Association's 'Bernard Simmons Award' in recognition of his human-rights and prodemocracy work.</li>
+  <li><b>2018:</b> Chief Fawehinmi was posthumously awarded the Order of the Niger, Nigeria's second highest honour.</li>
+</ul>
+<h2>Gani Fawehinmi Death</h2>
+<ul>
+  <li><b>5 September, 2009:</b> Fawehinmi died in the early hours of this fateful day with a prolonged battle with lung cancer. He was 71 years old. Fawehinmi died a disappointed man, because of the state of his country at the time of his death, he refused the highest honour accorded him by his country on his death bed.</li>
+</ul>
+</div>
+<p><em>His supporters have called him "the scourge of sphygmomanometer with which the blood pressure of dictators is gauged, the veritable conscience of the nation and the champion of the interests and causes of the masses".</em></p>
+  </section>
+<footer class="py-2">
+  <h3>If you have time, you should read more about this notable man on his <a target="_blank" href="http://en.wikipedia.org/wiki/Gani_Fawehinmi">Wikipedia entry.</a> </h3>
+</footer>
+</body>
+</html>
